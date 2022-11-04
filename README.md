@@ -7,22 +7,13 @@
 
 
 *kursiver text*
-* mit 1 * am Anfang und am Ende
+* mit 1 * oder 1 _ am Anfang und am Ende
 
 **fett geschrieben**
-* mit 2 * am Anfang und am Ende
+* mit 2 * oder 2 _ am Anfang und am Ende
 
 ***kursiv fetter Text***
-* mit 3 * am Anfang und am Ende
-
-_kursiver text_
-* mit 1 * am Anfang und am Ende
-
-__fett geschrieben__
-* mit 2 * am Anfang und am Ende
-
-___kursiv fetter Text___
-* mit 3 * am Anfang und am Ende
+* mit 3 * oder 3 _ am Anfang und am Ende
 
 
 ```yaml
