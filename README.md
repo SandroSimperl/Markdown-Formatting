@@ -1,6 +1,6 @@
 # TestRepo
 
-### Test Repo mit Markdown fromatierung für Comcave Schulung
+### Test Repo mit Markdown Formatierung für Comcave Schulung
 
 * 04.11.2022 12:10
 * Sandro Simperl
@@ -43,7 +43,7 @@ Copy Paste Text
 ```
 * ein Text Passage mti Formatiertem Hintergrund und einem Copy Button am Ende
 * mit 3 \` in eigener zeile am Anfang und am Ende
-* kann mit highliting Color sheme kombiniert werden wie: yaml, css, fix und so weiter
+* kann mit highlighting Color sheme kombiniert werden wie: yaml, css, fix und so weiter
 * Als Beispiel yaml: (\`\`\`yaml)
 ```yaml
 Copy Paste Text 
